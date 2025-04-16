@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # cv-johann-paul
  CV professionnel de Johann Paul, Data Scientist & Analyste IA
 
