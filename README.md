@@ -1,9 +1,7 @@
 <link rel="stylesheet" href="style.css">
 
-# cv-johann-paul
- CV professionnel de Johann Paul, Data Scientist & Analyste IA
-
 # Johann Paul
+ CV professionnel de Johann Paul, Data Scientist & Analyste IA
 
 **Data Scientist | Analyste Programmeur (IBM iSeries - AS400) | IA Scientist**  
 📍 Montréal, Québec, Canada  
