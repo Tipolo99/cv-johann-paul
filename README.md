@@ -1,90 +1,89 @@
-<link rel="stylesheet" href="style.css">
+# 👨‍💻 Johann Paul – Analyste & Scientifique des Données
+**Machine Learning | Intelligence Artificielle Appliquée | Visualisation**
 
-# Johann Paul
- CV professionnel de Johann Paul, Data Scientist & Analyste IA
-
-**Data Scientist | Analyste Programmeur (IBM iSeries - AS400) | IA Scientist**  
-📍 Montréal, Québec, Canada  
-📧 johann.paul@hec.ca | 🌐 http://goai123.quebec  
-📞 +1 (438) 380-7279 | GitHub: https://github.com/johannpaul-ai | LinkedIn: https://linkedin.com/in/johann-paul-25a40031
+> Certifié en science des données à la TÉLUQ, passionné par l'analyse des données et les méthodes d'apprentissage automatique. Je souhaite appliquer mes compétences en IA dans un environnement stimulant pour innover et appuyer la prise de décision stratégique.
 
 ---
 
-## 🌐 Langues | Languages
+## 🧠 Spécialisations
 
-- Français : ⭐⭐⭐⭐⭐ (langue maternelle)  
-- Anglais : ⭐⭐⭐⭐☆
-
-## 🚀 Objectif professionnel | Career Objective
-
-Créer des outils IA concrets et utiles qui transforment les processus complexes en automatisations accessibles. Passionné par l’innovation, la visualisation des données, et l’éthique dans les TI.
-
----
-
-## 🎓 Formation | Education
-
-**Certificat universitaire en science des données**  
-*TÉLUQ, Université du Québec* — Février 2025  
-Modules clés : Big Data, Analyse spatiale avec R, Machine Learning, Éthique des TI
-
-**Certificat en Leadership organisationnel**  
-*Université de Montréal HEC Montréal, Québec* — 2008
-
-**Certificat en Commerce Électronique**  
-*Université de Montréal HEC Montréal, Québec* — 2004
-
-**DEC en Informatique de gestion**  
-*CEGEP de St-Hyacinthe, Québec* — 1988
+- **Langages :** Python, R, Java, SQL, RPG (IBM iSeries AS400)
+- **Analyse & Viz :** Pandas, Matplotlib, Seaborn, ggplot2, Tableau
+- **Machine Learning :** Scikit-learn, TensorFlow
+- **Bases de données :** MongoDB, BigQuery, SQL
+- **Outils :** Jupyter, GitHub, Excel avancé, Visual Studio Code
+- **Langues :** Français (natif), Anglais (fonctionnel)
 
 ---
 
-## 💼 Expérience professionnelle | Work Experience
+## 💼 Expérience professionnelle
 
-### Analyste programmeur IBM iSeries (AS400)
-*Indépendant – Laval, QC* | 1988 – 2023  
-- Développement en langage RPG ILE, CL et SQL  
-- Modernisation des systèmes internes, automatisation des tâches manuelles  
-- Gestion de base de données DB2, rapports financiers
-
-### Forage - Simulation d’emploi (Job Simulation)  
-*British Airways - Projet Forage* | 2025  
-- Analyse de commentaires clients pour amélioration de l’expérience  
-- Recommandations dynamiques
-- python,  PowerPoint
+**Analyste - programmeur IBM iSeries (AS400)**  
+*Indépendant (depuis sept. 1988)*  
+- Analyse des besoins utilisateurs, développement RPG ILE IBM  
+- Modernisation d’applications legacy  
+- Collaboration avec équipes multidisciplinaires
 
 ---
 
-## 🧠 Projets en science des données | Data Science Projects
+## 🧪 Projets en science des données
 
-### 🔍 Agent IA de migration de site web (Projet en cours)  
-- Agent Python automatisé pour migrer un site de B12 vers WordPress  
-- Lecture, transformation, injection du contenu avec API OpenAI  
-- Intégration GPT, automatisation avec Selenium & BeautifulSoup
-
-### 🌿 Lutte contre l’éco-fraude — Analyse prédictive (2024)
-- Modèle supervisé pour détecter les entreprises à risque de greenwashing  
-- Utilisation de SHAP, LIME pour l’interprétabilité du modèle  
-- Déploiement d’une interface conversationnelle style ChatGPT
+### 🔍 Forage – Simulation d’emploi (British Airways)
+- Classification de feedbacks clients
+- Entraînement NLP + visualisation des résultats
+- 📦 Outils : Python, Pandas, scikit-learn, Seaborn
 
 ---
 
-## 🛠 Compétences techniques | Technical Skills
+## 📂 Portfolio GitHub
 
-- **Langages** : Python, R, SQL, Java, RPG ILE, NoCode   
-- **Librairies** : Pandas, Scikit-learn, TensorFlow, Streamlit, Matplotlib  
-- **Bases de données** : MongoDB, DB2, BigQuery  
-- **Outils** : Jupyter, GitHub, VS Code  
-- **Cloud** : IBM Cloud, WHC (Hébergement Web Canada)
+Un portfolio en développement incluant des projets IA :
+- Agent personnel avec NLP
+- Migration automatisée de WordPress
+- Détection de fraude environnementale (GoAI123)
 
----
-
-## 🏆 Réalisations | Highlights
-
-- 🎓 Gradué du certificat en science des données (TÉLUQ)
-- 🧠 Créateur de l’agent IA "GoAI123" pour la migration de sites web vers WordPress (en cours)
-- 📈 Création d’un tableau de bord d’analyse prédictive de criminalité à Montréal (terminé)
+[🔗 Voir mes projets GitHub](https://github.com/johannpaul-ai)
 
 ---
 
-_Last updated: April 2025_
+## 🎓 Formation
 
+**Université du Québec – TÉLUQ**  
+*Certificat en science des données (4865)* – 2025  
+- Exploitation des outils d’IA & données massives  
+- Analyse statistique, apprentissage machine, visualisation
+
+**HEC Montréal**  
+- Cours en gestion de projets technos (2008)  
+- Leadership organisationnel (2006)  
+- Commerce électronique (2005)
+
+---
+
+## 🤖 Projet GoAI123 – Lutte contre l’écofraude
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Artificial_intelligence_robot.png" width="150" align="right" />
+
+Un assistant IA qui détecte les risques de fraude environnementale par analyse prédictive.
+
+**Fonctionnalités :**
+- Prédiction de probabilité d’écofraude
+- NLP pour analyser les rapports publics
+- Visualisation interactive des zones à risque
+- Techniques SHAP/LIME pour expliquer les prédictions
+
+➡️ *À suivre : intégration dans une app web avec carte et dashboard.*
+
+---
+
+## 📫 Me contacter
+
+📍 Laval, Québec, Canada  
+📧 [johann.paul@hec.ca](mailto:johann.paul@hec.ca)  
+🔗 [LinkedIn](https://www.linkedin.com/in/johann-paul-2542003)  
+📱 +1 (438) 380-7279  
+🌐 [GoAI123.quebec](https://www.goai123.quebec) *(en cours)*
+
+---
+
+> _Ce dépôt GitHub est une vitrine de mes compétences techniques et de mon parcours en IA appliquée. Let's connect!_
