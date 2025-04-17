@@ -12,6 +12,19 @@
 
 ---
 
+## 🌐 Langues | Languages
+
+- Français : ⭐⭐⭐⭐⭐ (langue maternelle)  
+- Anglais : ⭐⭐⭐⭐☆
+
+---
+
+## 🚀 Objectif professionnel | Career Objective
+
+Créer des outils IA concrets et utiles qui transforment les processus complexes en automatisations accessibles. Passionné par l’innovation, la visualisation des données, et l’éthique dans les TI.
+
+---
+
 ## 🎓 Formation | Education
 
 **Certificat universitaire en science des données**  
@@ -74,19 +87,6 @@ Modules clés : Big Data, Analyse spatiale avec R, Machine Learning, Éthique de
 - 🎓 Gradué du certificat en science des données (TÉLUQ)
 - 🧠 Créateur de l’agent IA "GoAI123" pour la migration de sites web
 - 📈 Création d’un tableau de bord d’analyse prédictive de criminalité à Laval (terminé)
-
----
-
-## 🌐 Langues | Languages
-
-- Français : ⭐⭐⭐⭐⭐ (langue maternelle)  
-- Anglais : ⭐⭐⭐⭐☆
-
----
-
-## 🚀 Objectif professionnel | Career Objective
-
-Créer des outils IA concrets et utiles qui transforment les processus complexes en automatisations accessibles. Passionné par l’innovation, la visualisation des données, et l’éthique dans les TI.
 
 ---
 
