@@ -10,16 +10,16 @@
 
 ---
 
-## 🚀 Objectif professionnel | Career Objective
-
-Créer des outils IA concrets et utiles qui transforment les processus complexes en automatisations accessibles. Passionné par l’innovation, la visualisation des données, et l’éthique dans les TI.
-
----
 
 ## 🌐 Langues | Languages
 
 - Français : ⭐⭐⭐⭐⭐ (langue maternelle)  
 - Anglais : ⭐⭐⭐⭐☆
+
+## 🚀 Objectif professionnel | Career Objective
+
+Créer des outils IA concrets et utiles qui transforment les processus complexes en automatisations accessibles. Passionné par l’innovation, la visualisation des données, et l’éthique dans les TI.
+
 ---
 
 ## 🎓 Formation | Education
