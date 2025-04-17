@@ -85,7 +85,7 @@ Modules clés : Big Data, Analyse spatiale avec R, Machine Learning, Éthique de
 
 - 🎓 Gradué du certificat en science des données (TÉLUQ)
 - 🧠 Créateur de l’agent IA "GoAI123" pour la migration de sites web
-- 📈 Création d’un tableau de bord d’analyse prédictive de criminalité à Laval (terminé)
+- 📈 Création d’un tableau de bord d’analyse prédictive de criminalité à Montréal (terminé)
 
 ---
 
