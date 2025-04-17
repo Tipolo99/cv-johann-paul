@@ -7,8 +7,8 @@
 
 **Data Scientist | Analyste Programmeur (IBM iSeries - AS400) | IA Scientist**  
 📍 Montréal, Québec, Canada  
-📧 johann.paul@email.com | 🌐 [goai123.quebec](http://goai123.quebec)  
-📞 +1 (514) 123-4567 | GitHub: [github.com/johannpaul](https://github.com/johannpaul) | LinkedIn: [linkedin.com/in/johannpaul](https://linkedin.com/in/johannpaul)
+📧 johann.paul@hec.ca | 🌐 http://goai123.quebec  
+📞 +1 (438) 380-7279 | GitHub: https://github.com/johannpaul-ai | LinkedIn: https://linkedin.com/in/johann-paul-25a40031
 
 ---
 
@@ -18,23 +18,30 @@
 *TÉLUQ, Université du Québec* — Février 2025  
 Modules clés : Big Data, Analyse spatiale avec R, Machine Learning, Éthique des TI
 
+**Certificat en Leadership organisationnel**  
+*Université de Montréal HEC Montréal, Québec* — 2008
+
+**Certificat en Commerce Électronique**  
+*Université de Montréal HEC Montréal, Québec* — 2004
+
 **DEC en Informatique de gestion**  
-*Collège XYZ, Québec* — 2012
+*CEGEP de St-Hyacinthe, Québec* — 1988
 
 ---
 
 ## 💼 Expérience professionnelle | Work Experience
 
 ### Analyste programmeur IBM iSeries (AS400)
-*Entreprise ABC – Laval, QC* | 2015 – 2023  
-- Développement en langage RPG, CL et SQL  
+*Indépendant – Laval, QC* | 1988 – 2023  
+- Développement en langage RPG ILE, CL et SQL  
 - Modernisation des systèmes internes, automatisation des tâches manuelles  
-- Gestion de base de données DB2, rapports financiers, ETL maison
+- Gestion de base de données DB2, rapports financiers
 
-### Stagiaire - Simulation d’emploi (Job Simulation)  
+### Forage - Simulation d’emploi (Job Simulation)  
 *British Airways - Projet Forage* | 2025  
-- Analyse de données clients pour personnalisation de l’expérience  
-- Utilisation de Python pour des recommandations dynamiques
+- Analyse de commentaires clients pour amélioration de l’expérience  
+- Recommandations dynamiques
+- python,  PowerPoint
 
 ---
 
@@ -54,11 +61,11 @@ Modules clés : Big Data, Analyse spatiale avec R, Machine Learning, Éthique de
 
 ## 🛠 Compétences techniques | Technical Skills
 
-- **Langages** : Python, R, SQL, RPG, JavaScript (NoCode aussi)  
-- **Librairies** : Pandas, Scikit-learn, TensorFlow, Streamlit, Plotly, Matplotlib  
+- **Langages** : Python, R, SQL, Java, RPG ILE, NoCode   
+- **Librairies** : Pandas, Scikit-learn, TensorFlow, Streamlit, Matplotlib  
 - **Bases de données** : MongoDB, DB2, BigQuery  
-- **Outils** : Jupyter, GitHub Desktop, WordPress, Forage, VSCode  
-- **Cloud** : Google Cloud, WHC (Hébergement Web Canada)
+- **Outils** : Jupyter, GitHub, VS Code  
+- **Cloud** : IBM Cloud, WHC (Hébergement Web Canada)
 
 ---
 
