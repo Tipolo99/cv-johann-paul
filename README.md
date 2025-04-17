@@ -10,7 +10,6 @@
 
 ---
 
-
 ## 🌐 Langues | Languages
 
 - Français : ⭐⭐⭐⭐⭐ (langue maternelle)  
@@ -82,7 +81,7 @@ Modules clés : Big Data, Analyse spatiale avec R, Machine Learning, Éthique de
 ## 🏆 Réalisations | Highlights
 
 - 🎓 Gradué du certificat en science des données (TÉLUQ)
-- 🧠 Créateur de l’agent IA "GoAI123" pour la migration de sites web
+- 🧠 Créateur de l’agent IA "GoAI123" pour la migration de sites web vers WordPress (en cours)
 - 📈 Création d’un tableau de bord d’analyse prédictive de criminalité à Montréal (terminé)
 
 ---
